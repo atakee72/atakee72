@@ -42,9 +42,8 @@
 
 [![atakee72's GitHub | Stats](https://stats.quine.sh/atakee72/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
 
-[![atakee72's GitHub | Topics Over Time](https://stats.quine.sh/atakee72/topics-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
-
-[![atakee72's GitHub | Languages Over Time](https://stats.quine.sh/atakee72/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
+[![atakee72's GitHub | Topics Over Time](https://stats.quine.sh/atakee72/topics-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
+[![atakee72's GitHub | Languages Over Time](https://stats.quine.sh/atakee72/languages-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atakee72&show_icons=true&locale=en&layout=compact" alt="atakee72" /></p>
 
