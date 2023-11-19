@@ -46,13 +46,10 @@
 [![atakee72's GitHub | Topics Over Time](https://stats.quine.sh/atakee72/topics-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
 
 
-<p align="left"> [![atakee72's GitHub | Languages Over Time](https://stats.quine.sh/atakee72/languages-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72) </p>
+[![atakee72's GitHub | Languages Over Time](https://stats.quine.sh/atakee72/languages-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
 
-<p align="left">
-  <a href="http://localhost:3000?utm_source=widgets&utm_campaign=atakee72">
-    <img src="https://stats.quine.sh/atakee72/languages-over-time?theme=light" alt="atakee72's GitHub | Languages Over Time">
-  </a>
-</p>
+[![atakee72's GitHub | Languages Over Time](https://stats.quine.sh/atakee72/languages-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
+
 
 
 
