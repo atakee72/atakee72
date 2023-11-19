@@ -40,6 +40,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/atakee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atakee" /></a></p><br><br>
 
+[![atakee72's GitHub | Stats](https://stats.quine.sh/atakee72/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atakee72&show_icons=true&locale=en&layout=compact" alt="atakee72" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakee72&show_icons=true&locale=en" alt="atakee72" /></p>
