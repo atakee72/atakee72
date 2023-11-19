@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Simply ask me for my CV!](Simply ask me for my CV!)
 
-- ⚡ Fun fact **I think I am funny, yes (-;**
+- ⚡ Fun fact: I once spent an entire night debugging a seemingly simple issue only to discover it was a missing semicolon. Turns out, in the world of coding, the tiniest details matter – and so does a good night's sleep!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
