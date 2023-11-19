@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ercan Atak</h1>
+<h1 align="center">Hi 👋, I'm Ercan</h1>
 <h3 align="center">A passionate web developer based in Berlin, Germany</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p>
