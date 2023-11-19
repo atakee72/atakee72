@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://developer-portefeuille-of-ercan-atak.vercel.app](https://developer-portefeuille-of-ercan-atak.vercel.app)
 
-- 📝 I regularly write articles on [my own blog](my own blog)
+- 📝 I write articles on my own blog
 
 - 💬 Ask me about **anything as to my current stack**
 
