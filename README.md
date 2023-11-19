@@ -47,10 +47,5 @@
 
 [![atakee72's GitHub | Languages Over Time](https://stats.quine.sh/atakee72/languages-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
 
-
-<! --<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atakee72&show_icons=true&locale=en&layout=compact" alt="atakee72" /></p>-->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atakee72&show_icons=true&locale=en" alt="atakee72" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atakee72&" alt="atakee72" /></p>
 
