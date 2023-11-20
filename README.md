@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ercan</h1> 
+<h1 align="center">Hi 👋, I'm Ercan - 
+<p><a href="https://www.buymeacoffee.com/atakee"> <img align="left" src="https://www.buymeacoffee.com/app/assets/img/bmc-meta-new/new/apple-icon-120x120.png" height="70" width="70" alt="atakee" /></a></p><br><br></h1> 
 
-<p align="center"><a href="https://www.buymeacoffee.com/atakee"> <img align="left" src="https://www.buymeacoffee.com/app/assets/img/bmc-meta-new/new/apple-icon-120x120.png" height="70" width="70" alt="atakee" /></a></p><br><br>
 
 <h3 align="center">A passionate web developer based in Berlin, Germany</h3>
 
