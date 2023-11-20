@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **social projects**
 
-- 👨‍💻 All of my projects are available at [https://developer-portefeuille-of-ercan-atak.vercel.app](https://developer-portefeuille-of-ercan-atak.vercel.app)
+- 👨‍💻 All of my projects are available at [https://developer-portefeuille-of-ercan-atak.vercel.app](https://developer-portefeuille-of-ercan-atak.vercel.app) (restructuring on progress)
 
 - 📝 I write articles on my own blog
 
