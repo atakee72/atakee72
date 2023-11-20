@@ -41,7 +41,7 @@
 <p><a href="https://www.buymeacoffee.com/atakee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="atakee" /></a></p><br><br>
 
 
-<p><a href="https://www.buymeacoffee.com/atakee"> <img align="left" src="https://www.buymeacoffee.com/app/assets/img/bmc-meta-new/new/apple-icon-120x120.png" height="210" width="50" alt="atakee" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/atakee"> <img align="left" src="https://www.buymeacoffee.com/app/assets/img/bmc-meta-new/new/apple-icon-120x120.png" height="70" width="50" alt="atakee" /></a></p><br><br>
 
 
 
