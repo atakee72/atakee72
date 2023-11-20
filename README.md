@@ -40,7 +40,7 @@
 
 <h3 align="center">Support:</h3> 
 
-<h3 align="center"><p><a href="https://www.buymeacoffee.com/atakee"> <img align="left" src="https://www.buymeacoffee.com/app/assets/img/bmc-meta-new/new/apple-icon-120x120.png" height="70" width="70" alt="atakee" /></a></p><br><br></h3><br> 
+<p align="center"><p><a href="https://www.buymeacoffee.com/atakee"> <img align="left" src="https://www.buymeacoffee.com/app/assets/img/bmc-meta-new/new/apple-icon-120x120.png" height="70" width="70" alt="atakee" /></a></p><br><br></p><br> 
 
 [![atakee72's GitHub | Stats](https://stats.quine.sh/atakee72/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=atakee72)
 
