@@ -1,3 +1,5 @@
+<base target="_blank">
+
 <h1>Ercan Atak </h1>
 
 <h3>A passionate web developer based in Berlin, Germany</h3><br>
