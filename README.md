@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ercan </h1> 
+<h1 align="center">Ercan Atak </h1> 
 
 <h3 align="center">A passionate web developer based in Berlin, Germany</h3><br>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 - 🔭 I’m currently working on [MaHalle: A Social Web Forum App built with Next.js](https://tinyurl.com/2ym7jreh)
 
