@@ -9,7 +9,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
 
-- 🔭 I’m currently working on MaHalle: A Social Web Forum App built with Next.js ([Here it is as deployed at Vercel](https://mahalle-kiez-gesichterbuch.vercel.app/){target="_blank"} and [here is the code](https://tinyurl.com/2ym7jreh))
+- 🔭 I’m currently working on MaHalle: A Social Web Forum App built with Next.js ([Here it is as deployed at Vercel](https://external.ink?to=/mahalle-kiez-gesichterbuch.vercel.app/) a[target="_blank"]::after {
+  content: url("../images/icons/link_external.svg");
+  margin: 0 3px 0 5px;
+} and [here is the code](https://tinyurl.com/2ym7jreh))
 
 - 🌱 I’m currently advancing my knowledge in **JavaScript, TypeScript, Next.js, Data banks, CMSs, UI/UX and SEO**
 
