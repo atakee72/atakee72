@@ -4,16 +4,14 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia?border=true)](https://www.github.com/piyushsuthar/github-readme-quotes)
 
-<br>
+<br><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
 
-- 🔭 I’m currently working on MaHalle: A Social Web Forum App built with Next.js ([Here it is as deployed at Vercel](https://external.ink?to=/mahalle-kiez-gesichterbuch.vercel.app/) <img src="markdownmonstericon.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" /> and [here is the code](https://tinyurl.com/2ym7jreh))
+- 🔭 I’m currently working on MaHalle: A Social Web Forum App built with Next.js ([Here it is as deployed at Vercel](https://external.ink?to=/mahalle-kiez-gesichterbuch.vercel.app/) and [here is the code](https://tinyurl.com/2ym7jreh))
 
-- 🌱 I’m currently advancing my knowledge in **JavaScript, TypeScript, Next.js, Data banks, CMSs, UI/UX and SEO**
+- 🌱 I’m currently advancing my knowledge in **AI integrations, TypeScript, Next.js, PHP, SQL, UI/UX and SEO**
 
 - 👯 I’m looking to collaborate on **any open source project falling within my area of focus**
 
