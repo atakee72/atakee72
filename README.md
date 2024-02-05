@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate web developer based in Berlin, Germany</h3><br>
 
-<span align="center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia?border=true)](https://github.com/piyushsuthar/github-readme-quotes)</span>
+<h4 align="center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia?border=true)](https://github.com/piyushsuthar/github-readme-quotes)</h4>
 
 <br>
 
