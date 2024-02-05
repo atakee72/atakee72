@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on MaHalle: A Social Web Forum App built with Next.js ([Here it is as deployed at Vercel](https://external.ink?to=/mahalle-kiez-gesichterbuch.vercel.app/) and [here is the code](https://tinyurl.com/2ym7jreh))
 
-- 🌱 I’m currently advancing my knowledge in **AI integrations, TypeScript, Next.js, PHP, SQL, UI/UX and SEO**
+- 🌱 I’m currently advancing my knowledge in **Secure coding practices, AI integrations, Next.js, PHP, SQL, UI/UX and SEO**
 
 - 👯 I’m looking to collaborate on **any open source project falling within my area of focus**
 
