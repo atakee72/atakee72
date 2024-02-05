@@ -25,9 +25,9 @@
 
 - 📫 How to reach me: **atakee@gmail.com**
 
-- 📄 Know about my experiences [Simply ask me for my CV!](Simply ask me for my CV!)
+- 📄 Contact me to get to know about my experiences
 
-- ⚡ Fun fact: I once spent an entire night debugging a seemingly simple issue only to discover it was a missing semicolon. Turns out, in the world of coding, the tiniest details matter – and so does a good night's sleep!
+- ⚡ Fun fact: The term "bug" in programming originated in 1947 when Grace Hopper found an actual moth causing issues in the Harvard Mark II computer. She literally removed the bug and taped it to the logbook, coining the term "debugging." Embrace the quirky history of problem-solving! 
 
 <br>
 
