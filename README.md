@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://developer-portefeuille-of-ercan-atak.vercel.app](https://external.ink?to=/developer-portefeuille-of-ercan-atak.vercel.app) (restructuring on progress)
 
-- 📝 I write articles on my own blog, draw & paint and take photographs. See some of my works here: [Instagram:](https://external.ink?to=/www.instagram.com/a_t_a_k_e_e)
+- 📝 I write articles on my own blog, draw & paint and take photographs. See some of my works here: [@Instagram](https://external.ink?to=/www.instagram.com/a_t_a_k_e_e)
 
 - 💬 Ask me about **anything as to my current stack**
 
