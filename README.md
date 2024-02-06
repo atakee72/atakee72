@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently advancing my knowledge in **secure coding, AI integrations, Next.js, PHP, SQL, UI/UX and SEO**
 
-- 👯 I’m looking to collaborate on **any open source project falling within my area of focus**
+- 👯 I’m looking to collaborate on **any open source project falling within current stack**
 
-- 🤝 I’m looking for help with **social projects**
+- 🤝 I’m looking for help with **interesting social as well as commercial projects**
 
 - 👨‍💻 All of my projects are available at [https://developer-portefeuille-of-ercan-atak.vercel.app](https://external.ink?to=/developer-portefeuille-of-ercan-atak.vercel.app) (restructuring on progress)
 
-- 📝 I write articles on my own blog
+- 📝 I write articles on my own blog, draw & paint and take photographs. See some of my works here: [Instagram:](https://external.ink?to=/www.instagram.com/a_t_a_k_e_e)
 
 - 💬 Ask me about **anything as to my current stack**
 
