@@ -3,17 +3,17 @@
 A passionate web developer based in Berlin, Germany, celebrating the latest website he has built for his client: <a href="https://denizmahirkartal.com/" target="_blank" rel="noopener noreferrer">Deniz Mahir Kartal</a>
 
 <br>
+<br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br>
 <br>
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
 
-- 🔭 I’m currently working on MaHalle: A Social Web Forum App built with Next.js ([Here it is as deployed at Vercel](https://external.ink?to=/mahalle-kiez-gesichterbuch.vercel.app/) and [here is the code](https://tinyurl.com/2ym7jreh))
+- 🔭 I’m currently working on MaHalle: A Social Web Forum App built with Next.js ([Here it is as deployed at Vercel](https://mahalle-kiez-gesichterbuch.vercel.app/) ))
 
 - 🌱 I’m currently advancing my knowledge in **secure coding, accessibility, AI integrations and design patterns**
 
