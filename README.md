@@ -11,15 +11,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
 
-- 🔭 I’m currently working on MaHalle: A Social Web Forum App built with Next.js ([Here it is as deployed at Vercel](https://external.ink?to=/mahalle-kiez-gesichterbuch.vercel.app/) and [here is the code](https://tinyurl.com/2ym7jreh))
+- 🔭 I’m currently working on:
 
-- 🌱 I’m currently advancing my knowledge in **secure coding, accessibility, AI integrations and design patterns**
+            - the user interface of The P-Ick app: an app from a Hamburg start-up for people looking for apprenticeships and companies looking for trainees
+  
+            - MaHalle: The Facebook for my neighbourhood. A Social Web Forum App rebuilt with Astro.js (formerly with Next.js) ([Here it is as deployed at Vercel](https://external.ink?to=/mahalle-kiez-gesichterbuch.vercel.app/) and [here is the code](https://tinyurl.com/2ym7jreh))
 
-- 👯 I’m looking to collaborate on **any open source project falling within current stack**
+- 🌱 I’m currently advancing my knowledge in **JavaScript frameworks, CMSs, secure coding, accessibility, AI integrations and design patterns**
+
+- 👯 I’m looking to collaborate on **projects with a social cause**
 
 - 🤝 I’m looking for help with **interesting social as well as commercial projects**
 
-- 👨‍💻 All of my projects are available at [https://developer-portefeuille-of-ercan-atak.vercel.app](https://external.ink?to=/developer-portefeuille-of-ercan-atak.vercel.app) (restructuring on progress)
+- 👨‍💻 All of my projects are available at [https://developer-portefeuille-of-ercan-atak.vercel.app](https://external.ink?to=/developer-portefeuille-of-ercan-atak.vercel.app) (rebuild with Astro.js on progress)
 
 - 📝 I write articles on my own blog, draw & paint and take photographs. See some of my works here: [@Instagram](https://external.ink?to=/www.instagram.com/a_t_a_k_e_e)
 
