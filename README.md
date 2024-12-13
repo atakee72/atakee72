@@ -1,6 +1,6 @@
 <h1>Ercan Atak </h1>
 
-A passionate web developer based in Berlin, Germany, celebrating the latest website he has built for his client: <a href="https://denizmahirkartal.com/" target="_blank" rel="noopener noreferrer">Deniz Mahir Kartal</a>
+A passionate web developer based in Berlin, Germany, celebrating the latest website he has built for his client: 😎🎉🎊 <a href="https://denizmahirkartal.com/" target="_blank" rel="noopener noreferrer">Deniz Mahir Kartal</a>
 
 <br>
 <br>
