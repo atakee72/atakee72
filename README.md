@@ -27,7 +27,7 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me: **atakee@gmail.com**
+- 📫 [Reach me via Email](mailto:atakee@gmail.com)
 
 - 📄 Contact me to get to know about my experiences
 
