@@ -1,6 +1,6 @@
 <h1>Ercan Atak </h1>
 
-<h3>A passionate web developer based in Berlin, Germany, celebrating his latest live website for his client 😎: https://denizmahirkartal.com</h3><br>
+<h3>A passionate web developer based in Berlin, Germany, celebrating his latest live website for his client 😎: https://external.ink?to=/denizmahirkartal.com</h3><br>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]((https://github.com/piyushsuthar/github-readme-quotes))
 
