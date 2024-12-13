@@ -23,7 +23,7 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 
 - 👨‍💻 All of my projects are available in [my online portfolio](https://developer-portefeuille-of-ercan-atak.vercel.app/)  (restructuring on progress)
 
-- 📝 I also write articles on my own blog, draw & paint and take photographs. See some of my works here: [@Instagram](https://external.ink?to=/www.instagram.com/a_t_a_k_e_e)
+- 📝 I also write articles on my own blog, draw & paint, and take photographs. See some of my works here: [See my works on Instagram](https://external.ink?to=/www.instagram.com/a_t_a_k_e_e)
 
 - 💬 Ask me about **anything**
 
