@@ -15,15 +15,15 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 
 - 🔭 I’m currently doing the UI work of the [P-Ick App by a Hamburg Startup](https://hmbrg-p-ick-app-creative-ui.pages.dev/) as well as on the restructuring of my social media web app ["MaHalle: Das Kiez-Gesichterbuch"](https://mahalle-kiez-gesichterbuch.vercel.app/)
 
-- 🌱 I’m currently advancing my knowledge in **secure coding, CMSs, accessibility, AI integrations and design patterns**
+- 🌱 currently advancing my knowledge in **secure coding, CMSs, accessibility, AI integrations and design patterns**
 
-- 👯 I’m looking to collaborate on **projects with a social cause**
+- 👯 looking to collaborate on **projects with a social cause**
 
-- 🤝 I’m looking for help with **interesting open source, social as well as commercial projects**
+- 🤝 looking for help with **interesting open source, social as well as commercial projects**
 
-- 👨‍💻 All of my projects are available in my [online portfolio](https://developer-portefeuille-of-ercan-atak.vercel.app/)  (restructuring on progress)
+- 👨‍💻 All of my projects are available in [my online portfolio](https://developer-portefeuille-of-ercan-atak.vercel.app/)  (restructuring on progress)
 
-- 📝 I write articles on my own blog, draw & paint and take photographs. See some of my works here: [@Instagram](https://external.ink?to=/www.instagram.com/a_t_a_k_e_e)
+- 📝 I also write articles on my own blog, draw & paint and take photographs. See some of my works here: [@Instagram](https://external.ink?to=/www.instagram.com/a_t_a_k_e_e)
 
 - 💬 Ask me about **anything**
 
