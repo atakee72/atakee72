@@ -13,7 +13,7 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
 
-- 🔭 I’m currently working on the P-Ick App by a Hamburg Startup ([Here it is as deployed at Vercel](https://mahalle-kiez-gesichterbuch.vercel.app/) ) as well as on the restructuring of my social media webapp "MaHalle: Das Kiez-Gesichterbuch" ([Here it is as deployed at Vercel](https://mahalle-kiez-gesichterbuch.vercel.app/) )
+- 🔭 I’m currently working on the P-Ick App by a Hamburg Startup ([Here is the deoployed version of my UI work](https://mahalle-kiez-gesichterbuch.vercel.app/) ) as well as on the restructuring of my social media webapp "MaHalle: Das Kiez-Gesichterbuch" ([Here is the previous (Next.js) version at Vercel](https://mahalle-kiez-gesichterbuch.vercel.app/) )
 
 - 🌱 I’m currently advancing my knowledge in **secure coding, accessibility, AI integrations and design patterns**
 
