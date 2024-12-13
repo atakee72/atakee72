@@ -13,19 +13,19 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
 
-- 🔭 I’m currently working on the P-Ick App by a Hamburg Startup ([the deployed version of my UI work](https://hmbrg-p-ick-app-creative-ui.pages.dev/) ) as well as on the restructuring of my social media webapp "MaHalle: Das Kiez-Gesichterbuch" ([Here is the previous (Next.js) version at Vercel](https://mahalle-kiez-gesichterbuch.vercel.app/) )
+- 🔭 I’m currently working on the P-Ick App by a Hamburg Startup ([the deployed version of my UI work](https://hmbrg-p-ick-app-creative-ui.pages.dev/) ) as well as on the restructuring of my social media webapp "MaHalle: Das Kiez-Gesichterbuch" ([the previous (Next.js) version](https://mahalle-kiez-gesichterbuch.vercel.app/) )
 
-- 🌱 I’m currently advancing my knowledge in **secure coding, accessibility, AI integrations and design patterns**
+- 🌱 I’m currently advancing my knowledge in **secure coding, CMSs, accessibility, AI integrations and design patterns**
 
-- 👯 I’m looking to collaborate on **any open source project falling within current stack**
+- 👯 I’m looking to collaborate on **projects with a social cause**
 
-- 🤝 I’m looking for help with **interesting social as well as commercial projects**
+- 🤝 I’m looking for help with **interesting open source, social as well as commercial projects**
 
 - 👨‍💻 All of my projects are available at [https://developer-portefeuille-of-ercan-atak.vercel.app](https://external.ink?to=/developer-portefeuille-of-ercan-atak.vercel.app) (restructuring on progress)
 
 - 📝 I write articles on my own blog, draw & paint and take photographs. See some of my works here: [@Instagram](https://external.ink?to=/www.instagram.com/a_t_a_k_e_e)
 
-- 💬 Ask me about **anything as to my current stack**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me: **atakee@gmail.com**
 
