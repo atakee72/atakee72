@@ -2,6 +2,8 @@
 
 <h3>A passionate web developer based in Berlin, Germany</h3><br>
 
+([Here it is as deployed at Vercel](https://external.ink?to=/mahalle-kiez-gesichterbuch.vercel.app/) and [here is the code](https://tinyurl.com/2ym7jreh))
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br>
