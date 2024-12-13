@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on:
 
-            - the user interface of The P-Ick app: an app from a Hamburg start-up for people looking for apprenticeships and companies looking for trainees
+            - the user interface of P-Ick: an app by a Hamburg start-up for people looking for apprenticeships and companies looking for trainees
   
             - MaHalle: The Facebook for my neighbourhood. A Social Web Forum App rebuilt with Astro.js (formerly with Next.js) ([Here it is as deployed at Vercel](https://external.ink?to=/mahalle-kiez-gesichterbuch.vercel.app/) and [here is the code](https://tinyurl.com/2ym7jreh))
 
