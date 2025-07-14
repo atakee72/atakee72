@@ -13,7 +13,7 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
 
-- 🔭 I’m currently doing the UI work of the [P-Ick App by a Hamburg Startup](https://hmbrg-p-ick-app-creative-ui.pages.dev/) as well as on the restructuring of my social media web app ["MaHalle: Das Kiez-Gesichterbuch"](https://mahalle-kiez-gesichterbuch.vercel.app/)
+- 🔭 I'm currently doing the UI work of the [P-Ick App by a Hamburg Startup](https://hmbrg-p-ick-app-creative-ui.pages.dev/) as well as on the restructuring of my social media web app ["MaHalle: Das Kiez-Gesichterbuch"](https://mahalle-kiez-gesichterbuch.vercel.app/)
 
 - 🌱 currently advancing my knowledge in **secure coding, CMSs, accessibility, AI integrations and design patterns**
 
@@ -21,7 +21,7 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 
 - 🤝 looking for help with **interesting open source, social as well as commercial projects**
 
-- 👨‍💻 All of my projects are available in [my online portfolio](https://developer-portefeuille-of-ercan-atak.vercel.app/)  (restructuring on progress)
+- 👨‍💻 All of my projects are available in [my online portfolio](https://developer-portefeuille-of-ercan-atak.vercel.app/) and [my GitHub Pages site](https://atakee72.github.io/)  (restructuring on progress)
 
 - 📝 I also write articles on my own blog, draw & paint, and take photographs. [See some of my works on Instagram](https://www.instagram.com/a_t_a_k_e_e)
 
@@ -37,6 +37,7 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://atakee72.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="atakee72 github pages" height="30" width="40" /></a>
 <a href="https://codepen.io/atakee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="atakee" height="30" width="40" /></a>
 <a href="https://dev.to/atakee72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atakee72" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ercan-atak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ercan-atak" height="30" width="40" /></a>
