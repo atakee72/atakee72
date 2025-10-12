@@ -13,7 +13,7 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
 
-- 🔭 I'm currently doing the UI work of the [P-Ick App by a Hamburg Startup](https://hmbrg-p-ick-app-creative-ui.pages.dev/) as well as on the restructuring of my social media web app ["MaHalle: Das Kiez-Gesichterbuch"](https://mahalle-kiez-gesichterbuch.vercel.app/)
+- 🔭 After completing the musician website project <a href="https://denizmahirkartal.com/" target="_blank" rel="noopener noreferrer">Deniz Mahir Kartal</a> and breaking up with the project (the project idea was good, but one should do business always with right people) [P-Ick App by a Hamburg Startup](https://hmbrg-p-ick-app-creative-ui.pages.dev/) I'm restructuring my past projects (e.g. ["MaHalle: Das Kiez-Gesichterbuch"](https://mahalle-kiez-gesichterbuch.vercel.app/) ) and brain-storming on new ideas! 
 
 - 🌱 currently advancing my knowledge in **secure coding, CMSs, accessibility, AI integrations and design patterns**
 
