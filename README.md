@@ -1,6 +1,6 @@
 <h1>Ercan Atak </h1>
 
-A passionate developer based in Berlin, Germany, celebrating the conclusion of latest project, an AI supported webapp he has built for his client <a href="https://crowd-coach-v2.netlify.app/" target="_blank" rel="noopener noreferrer">Dr. S. Göttling</a>  😎🎉🎊 
+A passionate developer based in Berlin, Germany, celebrating the conclusion of his latest project, an AI supported webapp he built for <a href="https://crowd-coach-v2.netlify.app/" target="_blank" rel="noopener noreferrer">Dr. S. Göttling, Psychologist and Career Coach</a>  😎🎉🎊 
 
 <br>
 <br>
@@ -15,17 +15,17 @@ A passionate developer based in Berlin, Germany, celebrating the conclusion of l
 
 - 🔭 After completing the musician website project <a href="https://denizmahirkartal.com/" target="_blank" rel="noopener noreferrer">Deniz Mahir Kartal</a> and breaking up with the project [P-Ick App by a Hamburg Startup](https://hmbrg-p-ick-app-creative-ui.pages.dev/) (the project idea was good, but one should do business always with right people), I'm restructuring my past projects (e.g. ["MaHalle: Das Kiez-Gesichterbuch"](https://mahalle-kiez-gesichterbuch.vercel.app/) ) and brain-storming on new ideas such as a marketplace for amateur artists! 
 
-- 🌱 currently advancing my knowledge in **secure coding, CMSs, accessibility, AI integrations and design patterns**
+- 🌱 currently advancing my knowledge in **AI automations and integrations on commercial projects**
 
-- 👯 looking to collaborate on **projects with a social cause**
+- 👯 looking to collaborate on **projects creating a value added for people**
 
 - 🤝 looking for help with **interesting open source, social as well as commercial projects**
 
-- 👨‍💻 All of my projects are available in [my online portfolio](https://developer-portefeuille-of-ercan-atak.vercel.app/) and [my GitHub Pages site](https://atakee72.github.io/)  (restructuring on progress)
+- 👨‍💻 All of my projects are available in [my online portfolio](https://developer-portefeuille-of-ercan-atak.vercel.app/) and [my GitHub Pages site](https://atakee72.github.io/)  (both currently undergoing major restructuring)
 
 - 📝 I also write articles on my own blog, draw & paint, and take photographs. [See some of my works on Instagram](https://www.instagram.com/a_t_a_k_e_e)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **my ideas** and be ready to talk about your ones
 
 - 📫 [Reach me via Email](mailto:atakee@gmail.com)
 
