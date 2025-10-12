@@ -1,6 +1,6 @@
 <h1>Ercan Atak </h1>
 
-A passionate developer based in Berlin, Germany, celebrating the conclusion of his latest project, an AI supported webapp he built for <a href="https://crowd-coach-v2.netlify.app/" target="_blank" rel="noopener noreferrer">Dr. S. Göttling, Psychologist and Career Coach</a>  😎🎉🎊 
+A developer based in Berlin, Germany, celebrating the conclusion of his latest project, an AI supported webapp he built for <a href="https://crowd-coach-v2.netlify.app/" target="_blank" rel="noopener noreferrer">Dr. S. Göttling, Psychologist and Career Coach</a>  😎🎉🎊 
 
 <br>
 <br>
