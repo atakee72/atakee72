@@ -1,6 +1,6 @@
 <h1>Ercan Atak </h1>
 
-A passionate web developer based in Berlin, Germany, celebrating the latest website he has built for his client <a href="https://denizmahirkartal.com/" target="_blank" rel="noopener noreferrer">Deniz Mahir Kartal</a>  😎🎉🎊 
+A passionate developer based in Berlin, Germany, celebrating the conclusion of latest project, an AI supported webapp he has built for his client <a href="https://crowd-coach-v2.netlify.app/" target="_blank" rel="noopener noreferrer">Dr. S. Göttling</a>  😎🎉🎊 
 
 <br>
 <br>
@@ -13,7 +13,7 @@ A passionate web developer based in Berlin, Germany, celebrating the latest webs
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakee72" alt="atakee72" /></a> </p><br>
 
 
-- 🔭 After completing the musician website project <a href="https://denizmahirkartal.com/" target="_blank" rel="noopener noreferrer">Deniz Mahir Kartal</a> and breaking up with the project (the project idea was good, but one should do business always with right people) [P-Ick App by a Hamburg Startup](https://hmbrg-p-ick-app-creative-ui.pages.dev/) I'm restructuring my past projects (e.g. ["MaHalle: Das Kiez-Gesichterbuch"](https://mahalle-kiez-gesichterbuch.vercel.app/) ) and brain-storming on new ideas! 
+- 🔭 After completing the musician website project <a href="https://denizmahirkartal.com/" target="_blank" rel="noopener noreferrer">Deniz Mahir Kartal</a> and breaking up with the project [P-Ick App by a Hamburg Startup](https://hmbrg-p-ick-app-creative-ui.pages.dev/) (the project idea was good, but one should do business always with right people), I'm restructuring my past projects (e.g. ["MaHalle: Das Kiez-Gesichterbuch"](https://mahalle-kiez-gesichterbuch.vercel.app/) ) and brain-storming on new ideas such as a marketplace for amateur artists! 
 
 - 🌱 currently advancing my knowledge in **secure coding, CMSs, accessibility, AI integrations and design patterns**
 
