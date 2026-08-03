@@ -70,4 +70,4 @@ A developer based in Berlin, Germany, celebrating the conclusion of his latest p
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atakee72&" alt="atakee72" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=atakee72" alt="atakee72" /></p>
