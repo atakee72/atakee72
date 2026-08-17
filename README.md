@@ -1,6 +1,6 @@
 # Ercan Atak
 
-Full-stack developer in Berlin. I build web apps end to end — these days mostly **Astro, Svelte/SvelteKit, TypeScript, Tailwind and Supabase**, with AI integrations (Claude, Gemini) where they actually earn their place.
+Full-stack developer in Berlin. I build web apps end to end — these days mostly **Astro, Svelte/SvelteKit, TypeScript and Tailwind**, on whatever backend fits the job — Supabase/Postgres, MongoDB, Cloudflare — with AI integrations (Claude, Gemini) where they actually earn their place.
 
 **→ [ercan-atak.de](https://ercan-atak.de)** — full case studies for everything below, a blog on what building it actually taught me, plus [photography](https://ercan-atak.de/#lens) and [paintings](https://ercan-atak.de/#paints).
 
