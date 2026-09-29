@@ -8,7 +8,7 @@ Full-stack developer in Berlin. I build web apps end to end — these days mostl
 
 | Project | What it is | Links |
 |---|---|---|
-| **MaHalle** | Community platform for the Kiez — Astro · Svelte · MongoDB | [live](https://mahalle.digital) · [case study](https://ercan-atak.de/work/mahalle/) · [code](https://github.com/atakee72/fullstack-community-webApp-astro---v.3) |
+| **MaHalle** | Community platform for the Kiez — Astro · Svelte · MongoDB | [live](https://mahalle.digital) · [case study](https://ercan-atak.de/work/mahalle/) · [code](https://github.com/atakee72/mahalle-digital) |
 | **Re:Vintage** | Instagram-shop operations dashboard, run as a service for a client — SvelteKit · Supabase · Claude | [case study](https://ercan-atak.de/work/revintage/) |
 | **Coachly** | Multi-agent career coaching: 5 AI assistants, one orchestrated system — SvelteKit · self-hosted Supabase · Claude | [live](https://coachly-tau.vercel.app) · [case study](https://ercan-atak.de/work/coachly/) |
 | **Mahir Frontend** | Musician portfolio on headless WordPress — Astro · React · WordPress GraphQL · Cloudflare | [live](https://denizmahirkartal.com) · [case study](https://ercan-atak.de/work/dmk-musician/) |
