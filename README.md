@@ -21,6 +21,6 @@ More on the site: [all projects →](https://ercan-atak.de/#sheet)
 
 ## Contact
 
-Open to freelance projects and collaborations.
+Independent, based in Berlin. I work with small teams and solo founders who want clean, fast, well-thought-out software without enterprise overhead, and I set up and deploy on your own infrastructure when data sovereignty matters.
 
 📫 [mail@ercan-atak.de](mailto:mail@ercan-atak.de) · [LinkedIn](https://linkedin.com/in/ercan-atak) · [Instagram](https://www.instagram.com/a_t_a_k_e_e)
